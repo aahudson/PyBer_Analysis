@@ -5,6 +5,7 @@
 ### Deliverable 1: A ride-sharing summary DataFrame by city type
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 ### Deliverable 3: A written report for the PyBer analysis (README.md)
+### A detailed review of the analysis code can be accessed here: https://github.com/aahudson/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb 
 
 ## Results 
 Based on the data analysis the Urban areas have a larger number of total rides, drivers, and fares followed by the surbrband areas and lastly the rural areas. This is not unexpected and follows national trends. 
